@@ -1,0 +1,6 @@
+@SimpleHRToolAPI_HostAddress = http://localhost:5143
+
+GET {{SimpleHRToolAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
